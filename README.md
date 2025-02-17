@@ -1,4 +1,3 @@
-<<<<<< HENRY
 # **HALCONES**
 ## Repositorio de trabajo para desarrolladores de #3 Programación para Videojuegos
 
@@ -8,3 +7,4 @@
   Repositorio de trabajo para desarrolladores de #3 Programación para Videojuegos
   2. Juan Rodriguez: Hola soy juan rodriguez, me gusta la creación de videojuegos desde el apartado 3d de los entornos y programación del mismo, me gusta la hamburguesa.
 
+  3. Hola, mi nombre es Brayan Alexis Ortiz Torres y tengo 29 años, vivo en la ciudad de Chiquinquirá, Boyacá y una de mis comidas favoritas es la pizza
